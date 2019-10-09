@@ -1,0 +1,9 @@
+E:\_Document\_Code\C#\SleepCalculator\SleepCalculator\bin\Debug\SleepCalculator.exe.config
+E:\_Document\_Code\C#\SleepCalculator\SleepCalculator\bin\Debug\SleepCalculator.exe
+E:\_Document\_Code\C#\SleepCalculator\SleepCalculator\bin\Debug\SleepCalculator.pdb
+E:\_Document\_Code\C#\SleepCalculator\SleepCalculator\obj\Debug\SleepCalculator.csprojResolveAssemblyReference.cache
+E:\_Document\_Code\C#\SleepCalculator\SleepCalculator\obj\Debug\SleepCalculator.frmMain.resources
+E:\_Document\_Code\C#\SleepCalculator\SleepCalculator\obj\Debug\SleepCalculator.Properties.Resources.resources
+E:\_Document\_Code\C#\SleepCalculator\SleepCalculator\obj\Debug\SleepCalculator.csproj.GenerateResource.Cache
+E:\_Document\_Code\C#\SleepCalculator\SleepCalculator\obj\Debug\SleepCalculator.exe
+E:\_Document\_Code\C#\SleepCalculator\SleepCalculator\obj\Debug\SleepCalculator.pdb
